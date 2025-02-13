@@ -1,7 +1,7 @@
 import React , {  useState } from 'react';
 import  {UseFetch} from "./components/UseFetch"
 import  Cards  from './components/Cards/Cards';
-// import PokeCard from './PokeCard';
+
 
 
 
@@ -40,5 +40,5 @@ const PokeGrid =()=> {
 
         </div>
     )
-}
-export default PokeGrid
+};
+export default PokeGrid;
